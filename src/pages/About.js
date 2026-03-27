@@ -1,15 +1,8 @@
 import React from 'react';
-import { motion } from 'framer-motion';
 //about me page also uses the most basic transitions identical to others and uses basic tags seen in html to create a text based page about me.
 function About() {
   return (
-    <motion.section
-      className="about"
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -40 }}
-      transition={{ duration: 0.3 }}
-    >
+    <div>
       <h2>About Me</h2>
       <p>
         I’m a Digital Media student at the University of Central Florida, specializing in web and interactive media. I focus on front-end development and UI/UX design, with an emphasis on building clean, responsive, and accessible digital experiences.
@@ -36,7 +29,7 @@ function About() {
           <strong>Visual Design Skills:</strong> Autodesk Maya, AutoCAD, Revit, Inventor, Fusion 360
         </li>
       </ul>
-    </motion.section>
+    </div>
   );
 }
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -53,13 +53,7 @@ function Contact() {
   };
 //adding in basic animations and displaying the page content including a form that makes use of the functions responsible for submiting form logic required for this assignment.
   return (
-    <motion.section
-      className="contact"
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -40 }}
-      transition={{ duration: 0.3 }}
-    >
+    <div>
       <h2 className="contact-title">Contact Me</h2>
       <form onSubmit={handleSubmit} className="contact-form">
         <input
@@ -98,7 +92,7 @@ function Contact() {
         <a href="mailto:anthonyzarczynski@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/646/646135.png" alt="Email"/></a>
         <a href="https://www.linkedin.com/in/anthony-zarczynski-720340314/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn"/></a>
       </div>
-    </motion.section>
+    </div>
   );
 }
 

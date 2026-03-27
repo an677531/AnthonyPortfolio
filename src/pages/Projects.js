@@ -30,7 +30,6 @@ function Projects () {
   );
 
   let portfolioPage = (
-
       <div className="project-display">
         <button onClick={() => getPage("home")}>Go Back</button>
         <h3>{selectedProject.title}</h3>
