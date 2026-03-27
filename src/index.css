@@ -419,3 +419,11 @@ button:hover,
     height: 24px;
   }
 }
+
+.contact-wrapper {
+  padding: 40px;
+}
+
+.about-wrapper {
+  padding: 40px;
+}

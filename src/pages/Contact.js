@@ -51,9 +51,8 @@ function Contact() {
       console.log('Form submitted:', formData);
     }
   };
-//adding in basic animations and displaying the page content including a form that makes use of the functions responsible for submiting form logic required for this assignment.
   return (
-    <div>
+    <div className="contact-wrapper">
       <h2 className="contact-title">Contact Me</h2>
       <form onSubmit={handleSubmit} className="contact-form">
         <input

@@ -9,7 +9,8 @@ function Projects () {
 
   let portfolioHome = (
   <div className="grid">
-      <h2 className="projects-title">Projects</h2>
+      <h2 className="projects-title">Hi, I'm Anthony!</h2>
+      <p>Designer and developer focused on creating intuitive and effective digital work that's useful and interesting to me.</p>
 
       <div className="project-grid-item" >
         {projects.map((project, index) => (

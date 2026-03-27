@@ -2,8 +2,9 @@ import React from 'react';
 //about me page also uses the most basic transitions identical to others and uses basic tags seen in html to create a text based page about me.
 function About() {
   return (
-    <div>
+    <div className="about-wrapper">
       <h2>About Me</h2>
+      <img className="bio-image" src="https://scontent-mia3-3.cdninstagram.com/v/t51.82787-19/583350219_18048223187665291_1866053517353208180_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=w3uRQlWXpf0Q7kNvwHLRMs_&_nc_oc=Ado9ucva7AZJup3ILNq4tyL6HfJB9PTZbLejQvj9kTe8qntQK6awZ4npYC8rPcq5S88Mog9_V7r1wiMDzJZu3kU7&_nc_zt=24&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_gid=TGAQAPUf11ioC7py3cd_xw&_nc_ss=7a32e&oh=00_Afzgt1Aye9O360RF8SUUpL0haDFtyCuEC_g3TNR2bjPXjA&oe=69CBC440" alt="Anthony"/>
       <p>
         I’m a Digital Media student at the University of Central Florida, specializing in web and interactive media. I focus on front-end development and UI/UX design, with an emphasis on building clean, responsive, and accessible digital experiences.
       </p>
