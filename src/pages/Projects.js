@@ -21,7 +21,7 @@ function Projects () {
               getPage("project");
             }}
           >
-            <div><img class="thumbnail" src={project.image || 'https://anotheroldguy.wordpress.com/wp-content/uploads/2019/03/placehold.jpg'} alt='project'/>{project.title}</div>
+            <div><img className="thumbnail" src={project.image || 'https://anotheroldguy.wordpress.com/wp-content/uploads/2019/03/placehold.jpg'} alt='project'/>{project.title}</div>
           </button>
         ))}
       </div>

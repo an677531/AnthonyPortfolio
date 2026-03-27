@@ -1,20 +1,56 @@
 [
     {
+        "title": "Recipe Jungle",
+        "description": "A recipe-focused application that allows users to browse and explore a variety of meals. Designed to organize food content and improve accessibility to recipes across different categories.",
+        "link": "https://github.com/an677531/Recipe-Jungle",
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2026/03/screenshot-2026-03-26-at-11.51.20-pm.png"
+    },
+    {
+        "title": "Exercise App (Updated)",
+        "description": "An updated fitness application focused on tracking workouts and exercises. Emphasizes usability improvements and structured tracking of physical activity.",
+        "link": "https://github.com/an677531/updated-exercise-app",
+        "image": null
+    },
+    {
+        "title": "Preserv",
+        "description": "A collaborative project centered on building food preservation habits that work, application is involving sustainability, resource management concepts with a structured application interface. I have worked as a team lead and developer for the recipes section of the project including both frontend and backend of the project.",
+        "link": "https://github.com/klkeehan/preserv",
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2026/03/screenshot-2026-03-26-at-11.48.34-pm.png"
+    },
+    {
         "title": "Designs by ACZ",
         "description": "Watercolor and gouache paintings made from scratch. Built using traditional media and marketed through Instagram & Etsy.",
         "link": "https://instagram.com/designs_by_acz",
-        "image": "https://anotheroldguy.wordpress.com/wp-content/uploads/2019/03/placehold.jpg"
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2024/11/screenshot-2024-11-01-at-11.20.43e280afam-edited.png"
     },
     {
         "title": "WordPress Portfolio",
         "description": "WordPress Website that collects any work I do and want to show off.",
         "link": "https://anthonyzarczynski5.wordpress.com/",
-        "image": null
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2026/03/screenshot-2026-03-26-at-11.52.12-pm.png"
     },
     {
         "title": "GitHub Projects",
         "description": "Some of programming projects I have completed in the past",
         "link": "https://github.com/an677531",
-        "image": "https://anotheroldguy.wordpress.com/wp-content/uploads/2019/03/placehold.jpg"
+        "image": null
+    },
+    {
+        "title": "Assistant Graphic Designer at UCF Recreation and Wellness Center",
+        "description": "A collection of design work created as a Progress Assistant Graphic Designer at UCF Recreation and Wellness. Focused on branding, promotional materials, and visual communication to support campus events and initiatives.",
+        "link": "https://anthonyzarczynski5.wordpress.com/2025/10/18/progress-assistant-graphic-designer-at-ucf-recreation-and-wellness-center/",
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2025/10/post-m5k5-promo.png"
+    },
+    {
+        "title": "Congress.gov Revamp Prototype",
+        "description": "A UI/UX redesign concept for Congress.gov aimed at improving usability, navigation, and accessibility. The prototype focuses on modernizing the interface and enhancing user interaction with legislative information.",
+        "link": "https://anthonyzarczynski5.wordpress.com/2025/05/07/congress-gov-revamp-prototype/",
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2026/03/screenshot-2026-03-26-at-11.50.29-pm.png"
+    },
+    {
+        "title": "Instagram Feature Modification Idea",
+        "description": "A conceptual redesign introducing new features for Instagram to improve user engagement and content interaction. Includes ideation, interface concepts, and rationale behind proposed enhancements.",
+        "link": "https://anthonyzarczynski5.wordpress.com/2025/06/06/instagram-feature-mod-idea/",
+        "image": "https://anthonyzarczynski5.wordpress.com/wp-content/uploads/2025/06/screenshot-2025-06-06-at-4.06.56e280afpm.png"
     }
 ]
