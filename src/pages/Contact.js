@@ -89,7 +89,7 @@ function Contact() {
         <p>Or reach me via:</p>
         <a href="https://instagram.com/designs_by_acz" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/1077/1077042.png" alt="Instagram"/></a>
         <a href="mailto:anthonyzarczynski@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/646/646135.png" alt="Email"/></a>
-        <a href="https://www.linkedin.com/in/anthony-zarczynski-720340314/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn"/></a>
+        <a href="https://www.linkedin.com/in/anthony-zarczynski-720340314/"><img src="https://cdn-icons-png.flaticon.com/512/3128/3128219.png" alt="LinkedIn"/></a>
       </div>
     </div>
   );
